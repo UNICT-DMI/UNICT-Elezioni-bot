@@ -1,0 +1,30 @@
+
+
+___ID MESSAGE: 133____
+___INFO USER___
+user_id:677799469
+user_name:Gigii_G
+user_firstlastname:Luigi Seminara
+___INFO CHAT___
+chat_id:677799469
+chat_type:private
+chat_title:None
+___TESTO___
+text:/start
+date:2020-10-20 22:32:53+00:00
+_____________
+
+
+___ID MESSAGE: 136____
+___INFO USER___
+user_id:677799469
+user_name:Gigii_G
+user_firstlastname:Luigi Seminara
+___INFO CHAT___
+chat_id:677799469
+chat_type:private
+chat_title:None
+___TESTO___
+text:/start
+date:2020-10-20 22:34:38+00:00
+_____________
